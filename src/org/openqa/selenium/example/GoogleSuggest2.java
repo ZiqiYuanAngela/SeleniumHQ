@@ -1,3 +1,8 @@
+/*
+Author: Ziqi Yuan
+Last Time Modified: 11/06/18
+*/
+
 package org.openqa.selenium.example;
 
 import java.util.ArrayList;
