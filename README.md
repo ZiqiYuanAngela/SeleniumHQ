@@ -1,4 +1,4 @@
-#SeleniumHQ
+SeleniumHQ
 
 Run Selenium testcases using WebDriver to test Web Apps using JAVA API
 
