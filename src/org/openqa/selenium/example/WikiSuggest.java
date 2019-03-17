@@ -81,7 +81,7 @@ public class WikiSuggest {
             	System.out.println(introduction.getText().substring(300, 400));
             	System.out.println(introduction.getText().substring(400, 500));
             	System.out.println(introduction.getText().substring(500, 600));
-            	//System.out.println(introduction.getText().substring(600, introduction.getText().length()));
+            	System.out.println(introduction.getText().substring(600, introduction.getText().length()));
                 break;
             }
 			
